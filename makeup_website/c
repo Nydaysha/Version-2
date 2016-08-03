@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cruelty Free Makeup Brands</title>
+	<style>
+	img {    
+	     height:150px;
+		 width:150px; 
+	}
+	</style>
+</head>
+<body>
+<body bgcolor="#ff9999">
+</body>
+	<h1>Cruelty Free Makeup</h1>
+	<img src="../makeup_website/images/makeup_logos/anastasiamakeuplogo.jpg">
+	<img src="../makeup_website/images/makeup_logos/beccamakeuplogo.jpeg">
+	<img src="../makeup_website/images/makeup_logos/bitemakeuplogo.jpeg">
+	<img src="../makeup_website/images/makeup_logos/colourpopmakeuplogo.jpg">
+	<img src="../makeup_website/images/makeup_logos/elfmakeuplogo.gif">
+	<img src="../makeup_website/images/makeup_logos/hardcandymakeuplogo.png">
+    <img src="../makeup_website/images/makeup_logos/hourglassmakeuplogo.jpeg">
+    <img src="../makeup_website/images/makeup_logos/katvondmakeuplogo.png">
+    <img src="../makeup_website/images/makeup_logos/meltmakeuplogo.png">
+    <img src="../makeup_website/images/makeup_logos/milanimakeuplogo.png">
+    <img src="../makeup_website/images/makeup_logos/narsmakeuplogo.gif">
+    <img src="../makeup_website/images/makeup_logos/nyxmakeuplogo.jpg">
+    <img src="../makeup_website/images/makeup_logos/occlogo.jpg">
+    <img src="../makeup_website/images/makeup_logos/tartelogo.jpg">
+    <img src="../makeup_website/images/makeup_logos/thebalmmakeuplogo.jpg">
+    <img src="../makeup_website/images/makeup_logos/toofacedmakeuplogo.jpg">
+    <img src="../makeup_website/images/makeup_logos/urbandecaylogo.jpg">
+    <img src="../makeup_website/images/makeup_logos/wetnwildmakeuplogo.jpg">
+</body>
+</html>
